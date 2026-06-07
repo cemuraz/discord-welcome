@@ -21,10 +21,10 @@ const client = new Client({
     ]
 });
 
-const BOT_TOKEN = "MTUxMzE0MDM1NzQ2NTExNjc1Mg.GUReZi.n2FniVIj8sUboc86KegXDd3o_EKkdtZGuvp0pY";
-const GUILD_ID = "1509607073682292897";
-const VOICE_CHANNEL_ID = "1509607074256912393";
-const YETKİLİ_ROLE_ID = "1509607073778766035";
+const BOT_TOKEN = "bot_tokeni";
+const GUILD_ID = "sunucu_id";
+const VOICE_CHANNEL_ID = "kanal_id";
+const YETKİLİ_ROLE_ID = "yetkili_id";
 
 let connection;
 let player;
