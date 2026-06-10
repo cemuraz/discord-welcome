@@ -1,5 +1,7 @@
-# discord-welcome
-Discord Voices Welcome
+Discord Welcome Bot's
+Discord Ses Kanalı Botu
+
+# Star Vermeyi Unutmayın
 
 # Kurulum
 
