@@ -1,7 +1,7 @@
 # discord-welcome
 Discord Voices Welcome
 
-** Kurulum **
+* Kurulum *
 
 - Ses dosyanızı klasörün içerisine attıktan sonra ismini ' giris2.mp4 ' olarak kaydedin
 
